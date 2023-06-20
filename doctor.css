@@ -14,14 +14,8 @@ p{
     align-items:right;
     background: transparent;
     box-sizing: border-box;
-    
 
 }
-button[type="submit"] {
-    margin-right: 16px;
-    border: 1px solid black;
-    padding: 8px 16px;
-  }
 
 
 h1 {
